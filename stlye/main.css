@@ -48,7 +48,7 @@ header nav a:hover{
 /*evento principal*/
 .evento-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(/img/braXarg2.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.26),rgba(0, 0, 0, 0.26)100%), url('../img/braXarg2.png');
 
     height: 600px;
     background-size: cover;
