@@ -1,4 +1,4 @@
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 750px) {
     header .container{
         display: flex;
         flex-direction: column;
@@ -7,6 +7,11 @@
     .botao{
         margin-bottom: 5px;
         width: 200px;
+    }
+
+    .box-evento{
+        width: 150px;
+        height: 100px;
     }
 }
 
